@@ -1,0 +1,13 @@
+.history{
+  overflow-y: scroll;
+  background-color: #ffffff;
+}
+
+body{
+  background-color: #58ffdb;
+}
+
+img{
+  height: 500px;
+  width: 800px
+}
